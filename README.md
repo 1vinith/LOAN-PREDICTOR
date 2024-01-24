@@ -13,3 +13,4 @@ This is a basic machine learning classification project intended to learn and im
 9 Naive Bayes
 10 Gaussian Process classifier
 11 Voting classifier
+
