@@ -14,3 +14,8 @@ This is a basic machine learning classification project intended to learn and im
 10 .Gaussian Process classifier
 11 .Voting classifier
 
+# Here is a theoritical information about the function and variable used in deriving this whole program 
+Data Loading and Preprocessing:
+
+The script starts by importing necessary libraries such as NumPy, Pandas, and scikit-learn for machine learning tasks.
+It loads training and test datasets ('train.csv' and 'test.csv') using Pandas DataFrames.
