@@ -14,7 +14,7 @@ This is a basic machine learning classification project intended to learn and im
 10.Gaussian Process classifier
 11.Voting classifier
 
-<h2>Here is a theoritical information about the function and variable used in deriving this whole program</h2> 
+Here is a theoritical information about the function and variable used in deriving this whole program
 
 Data Loading and Preprocessing:
 
