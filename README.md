@@ -2,17 +2,17 @@
 
 This is a basic machine learning classification project intended to learn and implement different machine learning algorithms using sklearn along with regularizations and validation techniques to improve scores and reduce over fitting. More additions will be done to it in the coming time. This repository is intended to be used as a collective reference for implementation of various machine learning algorithms and techniques. The algorithms included are -
 
-1.Logistic Regression classifier\n
-2.SGD classifier\n
-3.SVM - Linear/RBF\n
-4.KNN\n
-5.Decision Tree Classifier\n
-6.Random Forest classifier\n
-7.Ada-Boost\n
-8.XgBoost\n
-9.Naive Bayes\n
-10.Gaussian Process classifier\n
-11.Voting classifier\n
+1.Logistic Regression classifier<br>
+2.SGD classifier<br>
+3.SVM - Linear/RBF<br>
+4.KNN<br>
+5.Decision Tree Classifier<br>
+6.Random Forest classifier<br>
+7.Ada-Boost<br>
+8.XgBoost<br>
+9.Naive Bayes<br>
+10.Gaussian Process classifier<br>
+11.Voting classifier<br>
 
 Here is a theoritical information about the function and variable used in deriving this whole program
 
