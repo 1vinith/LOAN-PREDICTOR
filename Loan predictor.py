@@ -20,7 +20,9 @@ from sklearn.utils.class_weight import compute_sample_weight
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 #Data Gathering
+
 
 df_train = pd.read_csv('train.csv')
 df_test  = pd.read_csv('test.csv')
