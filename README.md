@@ -4,6 +4,7 @@ This is a basic machine learning classification project intended to learn and im
 
 1.Logistic Regression classifier<br>
 2.SGD classifier<br>
+
 3.SVM - Linear/RBF<br>
 4.KNN<br>
 5.Decision Tree Classifier<br>
